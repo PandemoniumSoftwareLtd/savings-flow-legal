@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SavingsFlow - Privacy Policy</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f7;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #1d1d1f;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        .last-updated {
+            color: #86868b;
+            font-size: 0.9em;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+        
+        h2 {
+            color: #1d1d1f;
+            font-size: 1.5em;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+        
+        p {
+            margin-bottom: 15px;
+            color: #333;
+        }
+        
+        ul {
+            margin-left: 30px;
+            margin-bottom: 15px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+        }
+        
+        .highlight {
+            background-color: #e8f5e9;
+            border-left: 4px solid #4caf50;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        
+        .highlight strong {
+            display: block;
+            margin-bottom: 8px;
+            color: #2e7d32;
+        }
+        
+        .contact {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #f5f5f7;
+            border-radius: 8px;
+        }
+        
+        .contact a {
+            color: #0071e3;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        .contact a:hover {
+            text-decoration: underline;
+        }
+        
+        a {
+            color: #0071e3;
+            text-decoration: none;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+        
+        hr {
+            border: none;
+            border-top: 1px solid #e0e0e0;
+            margin: 30px 0;
+        }
+        
+        .copyright {
+            text-align: center;
+            color: #86868b;
+            font-size: 0.85em;
+            margin-top: 40px;
+            font-style: italic;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+            
+            h2 {
+                font-size: 1.3em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SavingsFlow Privacy Policy</h1>
+        <p class="last-updated">Last updated: March 2026 &nbsp;|&nbsp; Effective date: March 2026</p>
+        
+        <div class="highlight">
+            <strong>Privacy-First Design:</strong>
+            SavingsFlow encrypts all your financial data with AES-256 and stores it exclusively on your device. We do not operate servers that hold your financial information. We cannot access, view, or recover your data under any circumstances. This is not a policy decision &mdash; it is a technical limitation by design.
+        </div>
+
+        <hr>
+        
+        <h2>1. Who We Are</h2>
+        <p>SavingsFlow is developed and published by <strong>Pandamonium Software Ltd</strong>, a company registered in England and Wales. We are the data controller for any personal data processed through this app.</p>
+        <p><strong>Pandamonium Software Ltd</strong><br>
+        Email: <a href="mailto:pandemoniumsoftwareltd@gmail.com">pandemoniumsoftwareltd@gmail.com</a></p>
+        <p>For the purposes of UK GDPR, EU GDPR, and the Data Protection Act 2018, our legal basis for any processing is legitimate interest (subscription management) and your explicit consent (when you choose to export a backup).</p>
+
+        <hr>
+        
+        <h2>2. Data Storage &amp; Encryption</h2>
+        <p>All financial data &mdash; savings goals, budget transactions, mortgage projections, and app settings &mdash; is stored exclusively on your device. Data is encrypted at rest using AES-256 encryption. The encryption key is generated randomly on your device and stored in hardware-backed secure storage (iOS Keychain or Android Keystore). The encryption key is never included in device backups.</p>
+        <p>We do not operate servers that store your financial data. We cannot access, view, retrieve, or recover your data under any circumstances. This is not a policy decision &mdash; it is a technical limitation by design.</p>
+
+        <hr>
+        
+        <h2>3. Data We Collect</h2>
+        <p>SavingsFlow collects no personal data. We do not require account registration, an email address, a name, or any identifying information. No device identifiers are linked to your financial data.</p>
+        <p>The only data processed outside your device is an anonymous, randomly generated app user ID used by our subscription management provider (RevenueCat) to verify whether you have an active premium subscription. This ID cannot be linked to your identity, your device, or your financial data.</p>
+
+        <hr>
+        
+        <h2>4. Data We Do Not Collect</h2>
+        <p>We do not collect or process: your name, email address, phone number, date of birth, postal address, financial account credentials, bank details, location data, contacts, photos, camera input, browsing history, IP address (we do not operate servers that receive your requests), usage behaviour, screen views, tap patterns, session duration, or any other behavioural analytics.</p>
+        <p>We do not sell, share, rent, license, or transmit your data to any third party for any purpose.</p>
+
+        <hr>
+        
+        <h2>5. Analytics &amp; Tracking</h2>
+        <p>SavingsFlow contains no analytics SDKs, no advertising SDKs, no attribution SDKs, and no behavioural tracking of any kind. We do not track how you use the app, which screens you visit, or what features you use.</p>
+        <p>Expo's build infrastructure may collect minimal anonymous technical data (device type and OS version only) in the event of a crash, solely to maintain app stability. No personally identifiable information or financial data is included in crash reports.</p>
+
+        <hr>
+        
+        <h2>6. Network Requests</h2>
+        <p>SavingsFlow makes network requests only for two purposes: subscription verification via RevenueCat and promotional code validation. No financial data is included in any network request. All network communication uses HTTPS encryption in transit.</p>
+        <p>Your savings goals, budget transactions, mortgage projections, and app settings are never transmitted over any network under any circumstances.</p>
+
+        <hr>
+        
+        <h2>7. Encryption &amp; Security Measures</h2>
+        <p>Your data is protected by multiple layers of security:</p>
+        <ul>
+            <li><strong>AES-256 encryption</strong> on all data stored on your device &mdash; the same standard used by governments for classified information.</li>
+            <li><strong>Encryption key</strong> stored in hardware-backed secure storage (iOS Keychain / Android Keystore), never included in device backups.</li>
+            <li><strong>Passcode hardening</strong> with 100,000 rounds of cryptographic hashing &mdash; brute force attacks would take years.</li>
+            <li><strong>Optional Face ID / Touch ID</strong> biometric authentication. Biometric data is handled entirely by your device's operating system. SavingsFlow never accesses, processes, or stores biometric data.</li>
+            <li><strong>Escalating lockout</strong> on failed passcode attempts (30 seconds, 5 minutes, 30 minutes).</li>
+            <li><strong>Privacy blur</strong> overlay in the app switcher to prevent visual exposure.</li>
+            <li><strong>Auto-lock</strong> after 30 seconds in background.</li>
+        </ul>
+
+        <hr>
+        
+        <h2>8. Encrypted Backups</h2>
+        <p>When you choose to export a backup, the file is encrypted with a password you set. The encryption uses 600,000 rounds of key derivation and HMAC-SHA256 integrity verification to detect tampering. The backup file cannot be decrypted without your password. We never see, store, or have access to your backup password.</p>
+        <p>Backup files are exported to your device's file system. Where you store or send the file after export (Files app, AirDrop, email, cloud storage) is your decision and responsibility.</p>
+
+        <hr>
+        
+        <h2>9. Third-Party Services</h2>
+        <p>The only third-party service integrated into SavingsFlow is <strong>RevenueCat, Inc.</strong> (San Francisco, USA) for subscription management.</p>
+        <p><strong>What RevenueCat receives:</strong> an anonymous, randomly generated app user ID and your subscription status (active, expired, or cancelled). RevenueCat does not receive your name, email, financial data, or any information stored within SavingsFlow.</p>
+        <p><strong>RevenueCat's privacy policy:</strong> <a href="https://www.revenuecat.com/privacy" target="_blank">revenuecat.com/privacy</a></p>
+        <p>Payments for premium features are processed entirely by Apple via the App Store (or Google via Google Play). We do not receive or store your payment card details, billing address, or Apple ID / Google account information.</p>
+
+        <hr>
+        
+        <h2>10. International Data Transfers</h2>
+        <p>RevenueCat is based in the United States. The anonymous app user ID and subscription status processed by RevenueCat may be transferred to and stored on servers in the United States. This transfer is protected by RevenueCat's compliance with applicable data protection frameworks. No financial data or personally identifiable information is included in this transfer.</p>
+
+        <hr>
+        
+        <h2>11. Data Retention</h2>
+        <p>Financial data stored on your device persists until you delete it or delete the app. We have no ability to delete your data remotely because we do not have access to it.</p>
+        <p>The anonymous app user ID held by RevenueCat is retained for as long as your subscription relationship exists. After subscription expiry, RevenueCat retains the anonymous ID in accordance with their own retention policy (see their privacy policy linked above).</p>
+
+        <hr>
+        
+        <h2>12. Your Rights Under UK &amp; EU GDPR</h2>
+        <p>Under the UK General Data Protection Regulation, the EU General Data Protection Regulation, and the Data Protection Act 2018, you have the following rights:</p>
+        <ul>
+            <li><strong>Right of access</strong> &mdash; You may request a copy of any personal data we hold about you. Since we do not collect personal data, we hold none.</li>
+            <li><strong>Right to erasure</strong> &mdash; You may request deletion of your personal data. Since your financial data is stored only on your device, you can delete it at any time by deleting the app. To request deletion of your anonymous RevenueCat user ID, contact us at the email above.</li>
+            <li><strong>Right to data portability</strong> &mdash; You can export all your financial data as an encrypted backup file at any time from within the app.</li>
+            <li><strong>Right to rectification</strong> &mdash; You may correct any inaccurate data. Since all data is stored on your device, you can edit it directly within the app.</li>
+            <li><strong>Right to restrict processing</strong> &mdash; You may request we restrict processing of your data. The only processing we perform is subscription verification via RevenueCat, which is necessary to provide premium features.</li>
+            <li><strong>Right to object</strong> &mdash; You may object to processing based on legitimate interest. Contact us at the email above.</li>
+            <li><strong>Right to lodge a complaint</strong> &mdash; You have the right to complain to the Information Commissioner's Office (ICO) if you believe your data rights have been violated: <a href="https://ico.org.uk" target="_blank">ico.org.uk</a>. EU residents may contact their local Data Protection Authority.</li>
+        </ul>
+
+        <hr>
+        
+        <h2>13. California Privacy Rights (CCPA/CPRA)</h2>
+        <p>If you are a California resident, the California Consumer Privacy Act and the California Privacy Rights Act provide you with additional rights regarding your personal information. SavingsFlow does not sell or share personal information. SavingsFlow does not collect personal information as defined by the CCPA/CPRA. You may contact us at the email above to exercise any California privacy rights.</p>
+
+        <hr>
+        
+        <h2>14. Australian Privacy Rights</h2>
+        <p>If you are an Australian resident, the Privacy Act 1988 (Cth) and the Australian Privacy Principles govern how personal information is handled. SavingsFlow does not collect personal information as defined under the Privacy Act. All financial data is stored locally on your device and encrypted with AES-256. You may contact us at the email below or lodge a complaint with the Office of the Australian Information Commissioner (OAIC) at <a href="https://www.oaic.gov.au" target="_blank">oaic.gov.au</a>.</p>
+
+        <hr>
+        
+        <h2>15. Canadian Privacy Rights</h2>
+        <p>If you are a Canadian resident, the Personal Information Protection and Electronic Documents Act (PIPEDA) governs how personal information is collected, used, and disclosed. SavingsFlow does not collect personal information as defined under PIPEDA. All financial data is stored locally on your device. You may contact us at the email below or lodge a complaint with the Office of the Privacy Commissioner of Canada at <a href="https://www.priv.gc.ca" target="_blank">priv.gc.ca</a>.</p>
+
+        <hr>
+        
+        <h2>16. In-App Purchases</h2>
+        <p>Subscriptions and premium features are processed entirely by Apple via the App Store (or Google via Google Play). We do not receive your payment card details, billing address, or account credentials. We receive only confirmation of your subscription status via RevenueCat's anonymous user ID system.</p>
+
+        <hr>
+        
+        <h2>17. Children's Privacy</h2>
+        <p>SavingsFlow is not directed at children under 13 (or under 16 in the UK and EU). We do not knowingly collect personal data from children. Since the app collects no personal data from any user, this provision is met by design.</p>
+
+        <hr>
+        
+        <h2>18. Changes to This Policy</h2>
+        <p>We may update this policy to reflect changes in the app or in applicable law. The latest version will always be available within the app and at this URL. Since we do not collect email addresses, we cannot notify you directly of changes. The "Last updated" date at the top of this policy will always reflect the most recent revision. We encourage you to review this policy periodically.</p>
+
+        <hr>
+        
+        <div class="contact">
+            <h2>19. Contact Us</h2>
+            <p>If you have any questions about this policy or wish to exercise any of your data rights, contact us at:</p>
+            <p><strong>Email:</strong> <a href="mailto:pandemoniumsoftwareltd@gmail.com">pandemoniumsoftwareltd@gmail.com</a><br>
+            <strong>Company:</strong> Pandamonium Software Ltd<br>
+            <strong>Jurisdiction:</strong> England and Wales</p>
+            <p>For UK GDPR complaints, you may also contact the Information Commissioner's Office at <a href="https://ico.org.uk" target="_blank">ico.org.uk</a></p>
+        </div>
+        
+        <p class="copyright">&copy; 2026 Pandamonium Software Ltd. All rights reserved.</p>
+    </div>
+</body>
+</html>
