@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SavingsFlow - Terms of Service</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f7;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #1d1d1f;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 700;
+        }
+        
+        .last-updated {
+            color: #86868b;
+            font-size: 0.9em;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+        
+        h2 {
+            color: #1d1d1f;
+            font-size: 1.5em;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-weight: 600;
+        }
+        
+        p {
+            margin-bottom: 15px;
+            color: #333;
+        }
+        
+        ul {
+            margin-left: 30px;
+            margin-bottom: 15px;
+        }
+        
+        li {
+            margin-bottom: 8px;
+        }
+        
+        .important {
+            background-color: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        
+        .important strong {
+            display: block;
+            margin-bottom: 8px;
+        }
+        
+        .disclaimer {
+            background-color: #f8d7da;
+            border-left: 4px solid #dc3545;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .consumer-rights {
+            background-color: #e8f5e9;
+            border-left: 4px solid #4caf50;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .consumer-rights strong {
+            color: #2e7d32;
+        }
+        
+        .contact {
+            margin-top: 40px;
+            padding: 20px;
+            background-color: #f5f5f7;
+            border-radius: 8px;
+        }
+        
+        a {
+            color: #0071e3;
+            text-decoration: none;
+            font-weight: 500;
+        }
+        
+        a:hover {
+            text-decoration: underline;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid #e0e0e0;
+            margin: 30px 0;
+        }
+
+        .copyright {
+            text-align: center;
+            color: #86868b;
+            font-size: 0.85em;
+            margin-top: 40px;
+            font-style: italic;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 2em;
+            }
+            
+            h2 {
+                font-size: 1.3em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>SavingsFlow Terms of Service</h1>
+        <p class="last-updated">Last updated: March 2026 &nbsp;|&nbsp; Effective date: March 2026</p>
+
+        <hr>
+        
+        <h2>1. Acceptance of Terms</h2>
+        <p>By downloading, installing, or using SavingsFlow (&ldquo;the App&rdquo;), you agree to be bound by these Terms of Service (&ldquo;Terms&rdquo;). If you do not agree to these Terms, do not use the App. These Terms constitute a legal agreement between you and Pandamonium Software Ltd (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;), a company registered in England and Wales.</p>
+        <p>These Terms are in addition to Apple&rsquo;s Standard Licensed Application End User Licence Agreement (EULA). In the event of any conflict between these Terms and Apple&rsquo;s EULA, Apple&rsquo;s EULA shall take precedence to the extent required.</p>
+
+        <hr>
+        
+        <h2>2. Description of Service</h2>
+        <p>SavingsFlow is a personal finance management tool that helps users track savings goals, create budgets, and perform financial calculations including mortgage projections. The App stores all data locally on your device, encrypted with AES-256 encryption. The App does not connect to banks or financial institutions.</p>
+        
+        <div class="important">
+            <strong>Important:</strong>
+            SavingsFlow is a tool for personal financial tracking and planning only. It does not provide financial advice, investment recommendations, tax guidance, or professional financial services. Mortgage calculations and savings projections are estimates for planning purposes only and may not reflect actual rates, fees, or outcomes offered by lenders or financial institutions. You are solely responsible for all financial decisions made using the App. We strongly recommend consulting a qualified financial adviser before making significant financial decisions.
+        </div>
+
+        <hr>
+        
+        <h2>3. User Eligibility</h2>
+        <p>You must be at least 13 years old to use SavingsFlow (or 16 in the UK and EU). By using the App, you confirm that you meet this age requirement. If you are under 18, you should use the App with parental or guardian supervision.</p>
+
+        <hr>
+        
+        <h2>4. Subscriptions and Payments</h2>
+        <p>SavingsFlow offers free features (savings projection) and premium features (mortgage calculator, budget tracking, encrypted backups) available through a paid subscription.</p>
+        
+        <p><strong>Subscription Terms:</strong></p>
+        <ul>
+            <li>Subscriptions are processed and billed entirely by Apple via the App Store. We do not collect or store your payment information.</li>
+            <li>Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period.</li>
+            <li>You can manage or cancel subscriptions in your Apple App Store account settings (Settings &rarr; Apple ID &rarr; Subscriptions).</li>
+            <li>Prices are displayed in your local currency within the App before purchase. Prices may vary by territory and are set in App Store Connect.</li>
+            <li>If your subscription lapses, you retain full access to your locally stored data but lose access to premium features. Your data is never deleted due to subscription status.</li>
+        </ul>
+
+        <hr>
+        
+        <h2>5. Refunds</h2>
+        <p>All purchases are processed by Apple. We do not handle refunds directly. To request a refund, visit <a href="https://reportaproblem.apple.com" target="_blank">reportaproblem.apple.com</a> or contact Apple Support.</p>
+        
+        <div class="consumer-rights">
+            <p><strong>Your Statutory Rights:</strong> Nothing in this section affects your statutory rights under applicable consumer protection law, including the UK Consumer Rights Act 2015, the EU Consumer Rights Directive, or the Australian Consumer Law. If the App does not function as described, you may be entitled to a remedy under these laws regardless of this refund policy.</p>
+        </div>
+
+        <hr>
+        
+        <h2>6. Data Storage, Encryption, and Irrecoverability</h2>
+        <p>All your financial data is stored exclusively on your device and encrypted with AES-256 encryption. Your encryption key is stored in your device&rsquo;s secure hardware (iOS Keychain or Android Keystore) and is never included in device backups.</p>
+        
+        <div class="disclaimer">
+            <strong>By using the App, you acknowledge and accept the following:</strong>
+            <ul>
+                <li>We do not have access to your data. We cannot view, retrieve, recover, or reset your data under any circumstances. This is by design, not a limitation.</li>
+                <li>If you forget your passcode and have lost your recovery key and cannot answer your security question, your data is permanently inaccessible. We cannot help you recover it.</li>
+                <li>If you delete the App without first exporting an encrypted backup, all data is permanently lost.</li>
+                <li>If you lose or replace your device without first exporting an encrypted backup, all data is permanently lost.</li>
+                <li>Encrypted backups are protected by a password you choose. If you forget your backup password, the backup file cannot be decrypted. We do not have access to your backup password.</li>
+            </ul>
+        </div>
+        
+        <p><strong>We strongly recommend:</strong></p>
+        <ul>
+            <li>Storing your recovery key in a safe place separate from your device.</li>
+            <li>Regularly exporting encrypted backups of your data.</li>
+            <li>Keeping your backup password in a secure location you can access independently.</li>
+        </ul>
+
+        <hr>
+        
+        <h2>7. User Data and Privacy</h2>
+        <p>All your financial data is stored locally on your device and encrypted at rest. We do not collect, transmit, or store your financial information on any external server. We do not require account registration or collect personal information. Please refer to our <a href="privacy-policy.html">Privacy Policy</a> for full details.</p>
+
+        <hr>
+        
+        <h2>8. Accuracy of Calculations</h2>
+        <p>SavingsFlow provides financial calculations including savings projections, budget tracking, and mortgage estimates. While we make reasonable efforts to ensure these calculations are accurate:</p>
+        <ul>
+            <li>Calculations are based on the information you enter and the formulas used within the App.</li>
+            <li>Mortgage projections are estimates only. Actual mortgage terms, rates, fees, and payments offered by lenders may differ significantly.</li>
+            <li>Savings projections assume consistent contributions and do not account for tax implications, inflation, or changes in circumstances.</li>
+            <li>Budget tracking reflects only what you manually enter and does not connect to your bank accounts.</li>
+        </ul>
+        <p>We do not warrant the accuracy of any calculation or projection. You should verify all financial figures independently before making financial decisions.</p>
+
+        <hr>
+        
+        <h2>9. Intellectual Property</h2>
+        <p>The App, including all content, features, design, and functionality, is owned by Pandamonium Software Ltd and is protected by copyright, trademark, and other intellectual property laws of England and Wales and international treaties. You may not copy, modify, distribute, sell, or reverse-engineer the App.</p>
+        <p>Your financial data belongs to you. We claim no ownership or rights over any data you enter into the App.</p>
+
+        <hr>
+        
+        <h2>10. Disclaimer of Warranties</h2>
+        <div class="disclaimer">
+            <p>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE APP IS PROVIDED &ldquo;AS IS&rdquo; WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. WE DO NOT WARRANT THAT:</p>
+            <ul>
+                <li>The App will be error-free, uninterrupted, or free of vulnerabilities.</li>
+                <li>Calculations, projections, or estimates will be accurate or complete.</li>
+                <li>The App will meet your specific requirements or expectations.</li>
+                <li>Data stored locally will not be lost due to device failure, software error, or user error.</li>
+            </ul>
+        </div>
+        
+        <div class="consumer-rights">
+            <p><strong>Important for UK and EU users:</strong> Nothing in these Terms excludes or limits your statutory rights under the Consumer Rights Act 2015 (UK), the Consumer Rights Directive (EU), or other applicable consumer protection legislation. Where the App does not meet the statutory standard of satisfactory quality, fitness for purpose, or as described, your statutory rights apply in full regardless of this disclaimer.</p>
+        </div>
+        
+        <div class="consumer-rights">
+            <p><strong>Important for Australian users:</strong> Our goods and services come with guarantees that cannot be excluded under the Australian Consumer Law. Nothing in these Terms is intended to exclude, restrict, or modify any rights you may have under the Competition and Consumer Act 2010 (Cth).</p>
+        </div>
+
+        <hr>
+        
+        <h2>11. Limitation of Liability</h2>
+        <div class="disclaimer">
+            <p>TO THE MAXIMUM EXTENT PERMITTED BY LAW, PANDAMONIUM SOFTWARE LTD SHALL NOT BE LIABLE FOR ANY:</p>
+            <ul>
+                <li>Financial losses resulting from decisions made using the App.</li>
+                <li>Errors, inaccuracies, or omissions in calculations or projections.</li>
+                <li>Loss of data due to device failure, software error, forgotten passcodes, lost recovery keys, or user error.</li>
+                <li>Loss of data resulting from failure to maintain encrypted backups.</li>
+                <li>Indirect, incidental, special, or consequential damages of any kind.</li>
+            </ul>
+            <p>Our total aggregate liability to you for any claims arising from or related to the App shall not exceed the amount you have paid for your subscription in the 12 months immediately preceding the claim.</p>
+        </div>
+        
+        <p>This limitation does not apply to: (a) liability for death or personal injury caused by negligence, (b) liability for fraud or fraudulent misrepresentation, or (c) any other liability that cannot be excluded or limited under applicable law including UK, EU, and Australian consumer protection law.</p>
+
+        <hr>
+        
+        <h2>12. Termination</h2>
+        <p>You may stop using the App at any time by deleting it from your device. If you delete the App, all locally stored data is permanently deleted unless you have previously exported an encrypted backup.</p>
+        <p>Since SavingsFlow does not require an account, we do not have the ability to suspend or terminate your access. If we discontinue the App, we will provide reasonable notice where possible through the App Store listing.</p>
+
+        <hr>
+        
+        <h2>13. Changes to Terms</h2>
+        <p>We may update these Terms from time to time to reflect changes in the App, our business practices, or applicable law. The latest version will always be available within the App. The &ldquo;Last updated&rdquo; date at the top will reflect the most recent revision. Continued use of the App after changes constitutes acceptance of the revised Terms. Material changes to these Terms will be indicated by updating the effective date.</p>
+
+        <hr>
+        
+        <h2>14. Governing Law and Jurisdiction</h2>
+        <p><strong>Governing Law:</strong> These Terms are governed by the laws of England and Wales.</p>
+        <p><strong>For UK users:</strong> Any disputes will be subject to the non-exclusive jurisdiction of the courts of England and Wales. You may also be entitled to use the UK&rsquo;s alternative dispute resolution procedures.</p>
+        <p><strong>For EU users:</strong> You may bring proceedings in the courts of your country of residence. You may also use the European Commission&rsquo;s Online Dispute Resolution platform at <a href="https://ec.europa.eu/odr" target="_blank">ec.europa.eu/odr</a>.</p>
+        <p><strong>For all other users:</strong> Any disputes will be subject to the exclusive jurisdiction of the courts of England and Wales.</p>
+        <p>Nothing in this section affects your right to bring claims under your local consumer protection laws where those laws grant you additional protections.</p>
+
+        <hr>
+        
+        <h2>15. Severability</h2>
+        <p>If any provision of these Terms is found to be unenforceable or invalid by a court of competent jurisdiction, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall continue in full force and effect.</p>
+
+        <hr>
+        
+        <h2>16. Entire Agreement</h2>
+        <p>These Terms, together with our <a href="privacy-policy.html">Privacy Policy</a> and Apple&rsquo;s Standard EULA, constitute the entire agreement between you and Pandamonium Software Ltd regarding the use of SavingsFlow.</p>
+
+        <hr>
+        
+        <div class="contact">
+            <h2>17. Contact Us</h2>
+            <p>If you have questions about these Terms, please contact us at:</p>
+            <p><strong>Email:</strong> <a href="mailto:pandemoniumsoftwareltd@gmail.com">pandemoniumsoftwareltd@gmail.com</a><br>
+            <strong>Company:</strong> Pandamonium Software Ltd<br>
+            <strong>Jurisdiction:</strong> England and Wales</p>
+        </div>
+        
+        <p class="copyright">&copy; 2026 Pandamonium Software Ltd. All rights reserved.</p>
+    </div>
+</body>
+</html>
